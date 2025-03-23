@@ -1,0 +1,9 @@
+flask
+flask-cors
+flask-restful
+pandas
+numpy
+scikit-learn
+sqlalchemy
+firebase-admin  # If using Firebase
+gunicorn       # For deploying
