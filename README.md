@@ -3,18 +3,7 @@
 ## 🚀 Project Overview
 A **meal recommendation system** designed for **hostel students** to provide **healthy, budget-friendly, and hostel-friendly meal plans** based on their dietary preferences.
 
-## 📂 Project Structure
 
-```
-📂 google-solution-challenge-2025  
- ┣ 📂 frontend      # React-based UI  
- ┣ 📂 backend       # Flask/Django API  
- ┣ 📂 database      # SQL/Firebase setup  
- ┣ 📂 ai_model      # AI meal recommendation system  
- ┣ 📂 docs          # Project deck, reports, and documentation  
- ┣ 📜 README.md     # Project introduction & setup guide  
- ┣ 📜 requirements.txt  # Python dependencies  
- ┣ 📜 .gitignore    # Ignore unnecessary files  
 ```
 
 ## 🛠 Tech Stack
